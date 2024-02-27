@@ -11,7 +11,7 @@ I study Information Technologies at Wyższa Szkoła Biznesu - National Louis Uni
 - [Recipe management system](https://hyperskill.org/projects/180?track=12) - a multi-user web service with Spring Boot
 
 ## My other profiles🧔:
-- [Hyperskill.org](https://hyperskill.org/profile/605115676)
+<!-- [Hyperskill.org](https://hyperskill.org/profile/605115676) -->
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dariusz-ja%C5%9Bkiewicz-72b3b72b1/)
 
 <!--
