@@ -1,14 +1,15 @@
 ### Hi there 👋 I am Darek!
 ## About me:
-I study Information Technologies at Wyższa Szkoła Biznesu - National Louis University in Nowy Sącz. I learn JAVA on my own. I want to be a professional backend developer in the future, and that's why I am looking for my first experience in this industry.
+I study Information Technologies at Wyższa Szkoła Biznesu - National Louis University in Nowy Sącz. I learn C# on my own. I want to be a professional backend developer in the future, and that's why I am looking for my first experience in this industry.
 
-
+<!--
 ## ✨ My projects:
 - [Cinema room RESTful service](https://github.com/Dreksal/Cinema-Room-REST)
-
+-->
 
 ## 🔭 I’m currently working on ...
-- [Recipe management system](https://hyperskill.org/projects/180?track=12) - a multi-user web service with Spring Boot
+- Bookstore website with Intranet - This project is a bookstore web application developed using ASP.NET Core, Entity Framework Core, and ASP.NET Core Identity. It consists of two main parts: a public-facing portal where users can browse books and related content, and an intranet system that allows administrators to manage the website content, including books, authors, publishers, categories, news, and other portal data.
+
 
 ## My other profiles🧔:
 <!-- [Hyperskill.org](https://hyperskill.org/profile/605115676) -->
