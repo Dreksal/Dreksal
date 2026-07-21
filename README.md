@@ -8,7 +8,7 @@ I study Information Technologies at Wyższa Szkoła Biznesu - National Louis Uni
 -->
 
 ## 🔭 I’m currently working on ...
-- [Bookstore website with Intranet](https://github.com/Dreksal/StoryBook) Bookstore website with Intranet - This project is a bookstore web application developed using ASP.NET Core, Entity Framework Core, and ASP.NET Core Identity. It consists of two main parts: a public-facing portal where users can browse books and related content, and an intranet system that allows administrators to manage the website content, including books, authors, publishers, categories, news, and other portal data.
+- [Bookstore website with Intranet](https://github.com/Dreksal/StoryBook) - This project is a bookstore web application developed using ASP.NET Core, Entity Framework Core, and ASP.NET Core Identity. It consists of two main parts: a public-facing portal where users can browse books and related content, and an intranet system that allows administrators to manage the website content, including books, authors, publishers, categories, news, and other portal data.
 
 
 ## My other profiles🧔:
